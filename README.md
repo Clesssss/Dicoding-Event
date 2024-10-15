@@ -1,9 +1,9 @@
 # Dicoding-Event
 
-### Android Project for Dicoding Android Fundamental Module Submission  
-  
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+### Android Project for Dicoding Android Fundamental Module Submission  
+  
 
 ## Table of Contents
 - [About the Project](#about-the-project)
