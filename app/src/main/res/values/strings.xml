@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="contentDescription">Event Image</string>
+    <string name="title">Title</string>
+    <string name="organizer">Organizer</string>
+    <string name="duration">Duration</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="quota">Quota</string>
+    <string name="register">Register</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="no_events_found">No events found.</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="event_header">Event Header</string>
+    <string name="event_summary">Event Summary</string>
+</resources>
