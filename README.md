@@ -44,7 +44,15 @@ This Android application demonstrates the use of a multi-fragment activity archi
 - Click one of the event in the RecyclerView to view the event details.
 
 ## Screenshots
-![Home Fragment](https://github.com/Clesssss/Dicoding-Event/screenshots/home_fragment.png)
-![Upcoming Fragment](https://github.com/Clesssss/Dicoding-Event/screenshots/upcoming_fragment.png)
-![Finished Fragment](https://github.com/Clesssss/Dicoding-Event/screenshots/finished_fragment.png)
-![Event Detail](https://github.com/Clesssss/Dicoding-Event/screenshots/event_detail.png)
+### Home Fragment
+<img src="https://raw.githubusercontent.com/Clesssss/Dicoding-Event/main/screenshots/home_fragment.png" alt="Home Fragment" width="400" />  
+
+### Upcoming Fragment
+<img src="https://raw.githubusercontent.com/Clesssss/Dicoding-Event/main/screenshots/upcoming_fragment.png" alt="Upcoming Fragment" width="400" />
+
+### Finished Fragment
+<img src="https://raw.githubusercontent.com/Clesssss/Dicoding-Event/main/screenshots/finished_fragment.png" alt="Finished Fragment" width="400" />
+
+### Event Detail
+<img src="https://raw.githubusercontent.com/Clesssss/Dicoding-Event/main/screenshots/event_detail.png" alt="Event Detail" width="400" />
+
