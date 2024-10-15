@@ -39,7 +39,7 @@ This Android application demonstrates the use of a multi-fragment activity archi
 4. Run the app on an Android device or emulator
 
 ## Usage
-- Navigate to the "Upcoming" or "Finished" section to view the subsequent event.
+- Navigate to the "Upcoming" or "Finished" section to view the relevant event.
 - Try searching to find an event by name.
 - Click one of the event in the RecyclerView to view the event details.
 
