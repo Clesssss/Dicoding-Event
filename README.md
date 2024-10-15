@@ -25,7 +25,7 @@ This Android application demonstrates the use of a multi-fragment activity archi
 - Data Caching
 
 ## Tech Stack
-- **Android**: Kotlin, Jetpack Compose, LiveData, RecyclerView, Retrofit for API integration
+- **Android**: Kotlin, LiveData, RecyclerView, Retrofit for API integration
 - **Architecture**: MVVM (Model-View-ViewModel)
 - **Tools**: Android Studio, Gradle
 
